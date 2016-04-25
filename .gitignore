@@ -34,3 +34,11 @@ eagle.epf
 *.info
 
 *.eps
+
+*.lck
+
+*.gtp
+
+*.gbp
+
+*.pro
