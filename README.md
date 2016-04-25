@@ -1,6 +1,6 @@
 # MESH-Grove
 
-A bridge between the [**MESH GPIO Tag**](https://meshprj.com/en/tag/MESH-100GP-GPIO.html) by Sony and the [**Grove**](http://www.seeedstudio.com/wiki/Category:Grove) family by Seeed Studio.
+A bridge between the [**MESH GPIO Tag**](https://meshprj.com/en/tag/MESH-100GP-GPIO.html) by Sony and the [**Grove**](http://www.seeedstudio.com/wiki/Category:Grove) family by Seeed Studio. This design document is licensed by Shigeru Kobayashi under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International Public License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Bill of Materials
 
