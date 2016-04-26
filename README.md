@@ -9,7 +9,8 @@ A bridge between the [**MESH GPIO Tag**](https://meshprj.com/en/tag/MESH-100GP-G
 |Part/Designator|Manufacture Part Number/Seeed SKU|Quantity|
 |---------------|---------------------------------|--------|
 |PCB||1|
-|J1,J2,J3,J4|SKU: [320110033](http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=4)|4|
+|J1,J2,J3,J4|Seeed SKU: [320110033](http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=4)|4|
+|JP1|Digi-Key: [S2011EC-20-ND](http://www.digikey.jp/product-search/ja?keywords=S2011EC-20-ND)|1/8|
 
 ## How to 'compile'?
 
@@ -17,12 +18,16 @@ Place an order at the [Fusion PCBA prototype](http://www.seeedstudio.com/service
 
 ## Compatible Modules
 
-* [Grove - Switch(P)](http://www.seeedstudio.com/wiki/Grove_-_Switch(P))
-* [Grove - LED Socket Kit](http://www.seeedstudio.com/wiki/Grove_-_LED)
-* [Grove - Rotary Angle Sensor](http://www.seeedstudio.com/wiki/Grove_-_Rotary_Angle_Sensor)
-* [Grove - Buzzer](http://www.seeedstudio.com/wiki/Grove_-_Buzzer)
-* [Grove - Touch Sensor](http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor)
-* [Grove - Light Sensor](http://www.seeedstudio.com/wiki/Grove_-_Light_Sensor)
+* Sensors
+  * [Grove - Switch(P)](http://www.seeedstudio.com/wiki/Grove_-_Switch(P))
+  * [Grove - Rotary Angle Sensor](http://www.seeedstudio.com/wiki/Grove_-_Rotary_Angle_Sensor)
+  * [Grove - Slide Potentiometer](http://www.seeedstudio.com/wiki/Grove_-_Slide_Potentiometer)
+  * [Grove - Touch Sensor](http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor)
+  * [Grove - Light Sensor](http://www.seeedstudio.com/wiki/Grove_-_Light_Sensor)
+* Actuators
+  * [Grove - LED Socket Kit](http://www.seeedstudio.com/wiki/Grove_-_LED)
+  * [Grove - Buzzer](http://www.seeedstudio.com/wiki/Grove_-_Buzzer)
+  * [Grove - Vibration Motor](http://www.seeedstudio.com/wiki/Grove_-_Vibration_Motor)
 
 ## Incompatible Modules
 
