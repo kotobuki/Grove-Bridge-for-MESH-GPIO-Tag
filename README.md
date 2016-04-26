@@ -1,6 +1,6 @@
 # MESH-Grove
 
-![MESH-Grove](MESH-Grove.jpg)
+![MESH-Grove](https://raw.githubusercontent.com/kotobuki/MESH-Grove/master/Mesh-Grove.jpg)
 
 A bridge between the [**MESH GPIO Tag**](https://meshprj.com/en/tag/MESH-100GP-GPIO.html) by Sony and the [**Grove**](http://www.seeedstudio.com/wiki/Category:Grove) family by Seeed Studio.
 
