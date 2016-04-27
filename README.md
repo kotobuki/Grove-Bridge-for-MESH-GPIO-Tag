@@ -10,7 +10,7 @@ A bridge between the [**MESH GPIO Tag**](https://meshprj.com/en/tag/MESH-100GP-G
 |---------------|---------------------------------|--------|
 |PCB||1|
 |J1,J2,J3,J4|Seeed SKU: [320110033](http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=4)|4|
-|JP1|Digi-Key: [S2011EC-20-ND](http://www.digikey.jp/product-search/ja?keywords=S2011EC-20-ND)|1/8|
+|JP1|Digi-Key: [S2011EC-05-ND](http://www.digikey.jp/product-search/ja?keywords=S2011EC-05-ND)|1|
 
 ## How to 'compile'?
 
