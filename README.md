@@ -24,6 +24,7 @@ Place an order at the [Fusion PCBA prototype](http://www.seeedstudio.com/service
   * [Grove - Slide Potentiometer](http://www.seeedstudio.com/wiki/Grove_-_Slide_Potentiometer)
   * [Grove - Touch Sensor](http://www.seeedstudio.com/wiki/Grove_-_Touch_Sensor)
   * [Grove - Light Sensor](http://www.seeedstudio.com/wiki/Grove_-_Light_Sensor)
+  * [Grove - Single Axis Analog Gyro](http://www.seeedstudio.com/wiki/Grove_-_Single_Axis_Analog_Gyro)
 * Actuators
   * [Grove - LED Socket Kit](http://www.seeedstudio.com/wiki/Grove_-_LED)
   * [Grove - Buzzer](http://www.seeedstudio.com/wiki/Grove_-_Buzzer)
