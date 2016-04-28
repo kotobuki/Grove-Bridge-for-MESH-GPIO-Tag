@@ -162,10 +162,10 @@
 <wire x1="25.4" y1="24.13" x2="24.13" y2="25.4" width="0.254" layer="20"/>
 <wire x1="24.13" y1="25.4" x2="1.27" y2="25.4" width="0.254" layer="20"/>
 <text x="12.065" y="20.32" size="1.27" layer="25" font="vector" ratio="10" rot="R270">&lt;</text>
-<text x="8.255" y="24.13" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">Din1</text>
-<text x="19.05" y="24.13" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">Dout1</text>
-<text x="19.05" y="11.43" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">PWMout</text>
-<text x="8.255" y="11.43" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">Ain</text>
+<text x="8.255" y="22.86" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">Din1</text>
+<text x="19.05" y="22.86" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">Dout1</text>
+<text x="19.05" y="10.16" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">PWMout</text>
+<text x="8.255" y="10.16" size="1.778" layer="26" font="vector" ratio="15" rot="SMR270">Ain</text>
 <text x="10.16" y="8.255" size="1.016" layer="25" font="vector" ratio="12" rot="R90">Grove-MESH
 2016.04.25</text>
 <text x="10.795" y="20.0025" size="1.27" layer="26" font="vector" ratio="15" rot="SMR270">MESH GPIO Tag</text>
